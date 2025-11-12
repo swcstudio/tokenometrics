@@ -1,0 +1,12 @@
+{
+  "citation": {
+    "author": "Oveshen Govender",
+    "title": "Tokenometrics: Programming Powerful Financial Instruments secured by RWA's & eRWA's",
+    "year": 2025,
+    "institution": "Macquarie University",
+    "type": "thesis-paper",
+    "abstract": "Explores programmable financial instruments backed by Real World Assets (RWA) and electronic RWA (eRWA).",
+    "doi": "TBD",
+    "license": "AGL 3.0 (pending setup)"
+  }
+}
