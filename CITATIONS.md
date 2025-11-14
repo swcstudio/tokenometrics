@@ -43,3 +43,25 @@ This document provides conceptual anchors, research bridges, foundational refere
 - How can we design context structures that explicitly leverage these three stages?
 - Can we create tools to detect and measure the emergence of symbolic processing?
 - How might we enhance retrieval mechanisms through better field-based context design?
+
+### 3. EXPchain: Scaling Trust in AI through Zero-Knowledge Machine Learning
+**Source:** Polyhedra Network. (2024). *EXPchain Litepaper: Scaling Trust in the Age of Artificial Intelligence*. Polyhedra Network Documentation. https://docs.polyhedra.network/litepaper/
+
+**Key Concepts:**
+- **Zero-Knowledge Machine Learning (zkML)**: Enables mathematical verification of AI systems without revealing underlying data or models
+- **Proof of Intelligence (PoI) Framework**: Novel consensus mechanism for verifiable AI applications
+- **Expander Proof System**: High-performance zero-knowledge prover optimized for AI verification
+- **zkPyTorch Toolkit**: Developer-friendly integration of zkML into traditional AI workflows
+- **AI-Blockchain Convergence**: Addresses the $15.7 trillion AI market and $3.1 trillion blockchain market intersection
+
+**Connections to Context-Engineering:**
+- Provides cryptographic foundations for verifiable context processing in AI systems
+- Demonstrates practical implementation of zero-knowledge proofs in machine learning contexts
+- Offers frameworks for trust and accountability in emergent symbolic mechanisms
+- Validates approaches to secure-by-design context engineering architectures
+
+**Socratic Questions:**
+- How can zero-knowledge proofs be applied to verify context processing without exposing sensitive data?
+- What mechanisms from EXPchain could inform privacy-preserving context engineering?
+- How do zero-knowledge verification systems relate to emergent context properties?
+- Can Proof of Intelligence frameworks be adapted for context validation systems?
